@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Application",
+    "\\Application\\Interfaces",
+    "\\Contracts1",
+    "\\Contracts1\\Exceptions",
+    "\\Domain",
+    "\\Domain1\\Constants",
+    "\\Domain1\\Entities",
+    "\\Domain1\\Enums",
+    "\\Services"
+  ],
+  "SelectedNode": "\\Services\\ServicesOld.csproj",
+  "PreviewInSolutionExplorer": false
+}

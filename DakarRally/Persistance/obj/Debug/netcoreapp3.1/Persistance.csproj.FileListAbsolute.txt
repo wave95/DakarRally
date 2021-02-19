@@ -1,0 +1,7 @@
+C:\Users\Nikola\source\repos\DakarRally\Persistance\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Nikola\source\repos\DakarRally\Persistance\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\Nikola\source\repos\DakarRally\Persistance\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Nikola\source\repos\DakarRally\Persistance\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\Nikola\source\repos\DakarRally\Persistance\obj\Debug\netcoreapp3.1\Persistance.csprojAssemblyReference.cache
+C:\Users\Nikola\source\repos\DakarRally\Persistance\obj\Debug\netcoreapp3.1\Persistance.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\DakarRally\Persistance\obj\Debug\netcoreapp3.1\Persistance.AssemblyInfo.cs

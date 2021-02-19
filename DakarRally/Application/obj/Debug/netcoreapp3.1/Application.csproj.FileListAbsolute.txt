@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\DakarRally\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\Nikola\source\repos\DakarRally\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Nikola\source\repos\DakarRally\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Nikola\source\repos\DakarRally\Application\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\Nikola\source\repos\DakarRally\Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Nikola\source\repos\DakarRally\Application\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\Nikola\source\repos\DakarRally\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Nikola\source\repos\DakarRally\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\Users\Nikola\source\repos\DakarRally\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\DakarRally\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\DakarRally\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\DakarRally\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\Nikola\source\repos\DakarRally\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\Nikola\source\repos\DakarRally\Application\obj\Debug\netcoreapp3.1\Application.pdb
